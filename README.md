@@ -4,8 +4,7 @@ my new project
 Based on seed project `atomist-seeds:spring-rest-seed`
 
 ## Developmenttest
-
-This project is driven using [Maven][mvn].
+f
 df
 [mvn]: https://maven.apache.org/ (Maven)
 dfsdfff
