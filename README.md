@@ -4,10 +4,9 @@ my new project
 Based on seed project `atomist-seeds:spring-rest-seed`
 
 ## Developmenttest
-f
-df
+
 [mvn]: https://maven.apache.org/ (Maven)
-dfsdfff
+
 ### Run locally
 
 You can run the service locally using the following from the command:
