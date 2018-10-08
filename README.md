@@ -1,5 +1,5 @@
 # new002
-my new project
+my new project.
 
 
 ## Development
