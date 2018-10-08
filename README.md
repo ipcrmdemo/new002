@@ -5,7 +5,7 @@ my new project.
 ## Development
 
 [mvn]: https://maven.apache.org/ (Maven)
-
+Test
 ### Run locally
 
 You can run the service locally using the following from the command:
