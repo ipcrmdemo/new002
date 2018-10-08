@@ -1,6 +1,5 @@
 # new002
 my new project.
-.
 
 ## Development
 
