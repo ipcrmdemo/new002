@@ -3,7 +3,7 @@ my new project
 
 Based on seed project `atomist-seeds:spring-rest-seed`
 
-## Developmenttest
+## Development
 
 [mvn]: https://maven.apache.org/ (Maven)
 
